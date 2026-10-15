@@ -1,0 +1,14 @@
+# Tested locally in the baseline environment
+scikit-learn>=1.5,<2
+pytest>=8,<9
+
+# Extended prototype / Google Colab (optional)
+langchain>=0.3
+langchain-community>=0.3
+langchain-core>=0.3
+langchain-text-splitters>=0.3
+langchain-huggingface>=0.1
+langchain-openai>=0.3
+langgraph>=0.2
+faiss-cpu>=1.8
+sentence-transformers>=3
